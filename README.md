@@ -2,6 +2,10 @@
 
 Welcome to our VR Dentistry Training Project! 🦷✨
 
+
+https://github.com/jackl16/VRDentistry/assets/76275380/99ce4e6c-5370-45c5-b3de-cf1a188abb44
+
+
 ## Introduction
 
 🚀 Embark on a revolutionary journey in the realm of dental education with our Virtual Reality (VR) project! We're reshaping how dentistry is learned and practiced by leveraging immersive VR experiences.
