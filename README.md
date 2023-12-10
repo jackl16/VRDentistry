@@ -55,6 +55,6 @@ In a world where practical training is often hindered by equipment shortages and
 
 🙌 **Credits:**
 - This is a project created by Steven Ng [@SYS-NG](https://github.com/SYS-NG) and Jack Li [@jackl16](https://github.com/jackl16)
-- Special thanks to the Unity community and contributors who made this project possible.
+- Special thanks to the Unity community and the University of Calgary for their support!
 
 **Happy VR Dentistry Training! 🦷✨**
